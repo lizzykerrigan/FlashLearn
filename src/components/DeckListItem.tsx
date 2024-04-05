@@ -16,7 +16,7 @@ const DeckListItem: React.FC<DeckListItemProps> = ({ title, onPress }) => {
 
 const styles = StyleSheet.create({
   container: {
-    padding: 16,
+    padding: 24,
     borderBottomWidth: 1,
     borderBottomColor: "#ccc",
     backgroundColor: "#F5F5FF",
